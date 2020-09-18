@@ -4,5 +4,6 @@ In this simple game I made sprites which can cut trees and build houses. Also in
 All sprites are animated.
 
 Pictures:
+
 ![111](https://user-images.githubusercontent.com/55032190/93636219-d4284700-f9f3-11ea-9e5a-9df2e123d32c.png)
 ![222](https://user-images.githubusercontent.com/55032190/93636222-d5597400-f9f3-11ea-9548-c42a35029186.png)
